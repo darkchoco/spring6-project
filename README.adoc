@@ -1,0 +1,21 @@
+= Java Web Development
+Ikhoon Chon <darkchoco@cloudscape.kr>
+:toc:
+
+== Basic info
+
+More information on each project's wiki.  +
+Here only covers basic information about each project.
+
+{sp} +
+
+== List of projects
+=== learn-spring-6
+* 1200-calculate-singleton : 특별한 것 없음.
+
+==== Config
+* MySQL8 on XAMPP
+
+==== Reference
+
+{sp} +
