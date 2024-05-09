@@ -9,7 +9,7 @@
         <form th:action="@{/maintenance/product/validate-update-input}" method="post" th:object="${productMaintenanceInput}">
             <table>
                 <tr>
-                    <th>상품 ID</th>
+                    <th>상품ID</th>
                     <td>
                         <span th:text="*{id}"></span>
                         <input type="hidden" th:field="*{id}" />
@@ -37,7 +37,7 @@
                     </td>
                 </tr>
             </table>
-            <div sec:authorize="hasRole('MANAGER')">
+            <div>
                 <input type="submit" value="업데이트"/>
             </div>
             <a th:href="@{/maintenance/product/display-list}">상품 목록으로 돌아가기</a>

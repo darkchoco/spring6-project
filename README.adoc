@@ -1,21 +1,24 @@
-= Java Web Development
+= Spring 6 Project
 Ikhoon Chon <darkchoco@cloudscape.kr>
 :toc:
 
 == Basic info
 
-More information on each project's wiki.  +
+More information on each project's README.  +
 Here only covers basic information about each project.
 
 {sp} +
 
 == List of projects
 === learn-spring-6
-* 1200-calculate-singleton : 특별한 것 없음.
+* 0602-shopping-springjdbc : Spring JDBC
+* 1102-shopping-security : Spring Security
+* 1200-calculate-singleton : 특별한 것 없음
 
 ==== Config
 * MySQL8 on XAMPP
 
 ==== Reference
+* learn-spring-6.pptx : 주요내역만 따로 정리(주로 screencapture)한 파일. 대부분 내역은 서적 참조.
 
 {sp} +
